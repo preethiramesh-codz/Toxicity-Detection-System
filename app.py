@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Load Model
-model = joblib.load("model/toxicity_model.pkl")
+model = joblib.load("toxicity_model.pkl")
 
 # Title
 st.title("🛡️ Toxicity Detection System")
