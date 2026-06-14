@@ -29,16 +29,16 @@ The Toxicity Detection System is a Machine Learning-based web application that i
 
 Jigsaw Toxic Comment Classification Challenge Dataset
 
-#Project Structure
+Project Structure
 
-Toxicity-Detection-System/
-├── app.py
-├── train_model.py
-├── requirements.txt
-├── README.md
-├── dataset/
-├── model/
-└── home.png,toxicity.png,non-toxicity.png
+Toxicity-Detection-System:
+ app.py
+ train_model.py
+ requirements.txt
+ README.md
+ dataset
+ model
+ home.png,toxicity.png,non-toxicity.png
 
 How to Run
 
